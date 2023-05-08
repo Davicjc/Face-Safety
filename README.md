@@ -10,7 +10,7 @@ Este é um programa em Python que usa a biblioteca de reconhecimento facial "fac
 <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/2-Add.jpg?raw=true" width="500">
 
 -  Nessa parte voce pode escolher quem voce ira remover do banco de dados de fotos que fica salvo em sua área de trabalho, para apagar uma pessoa pelo programa ele apresentará uma lista de cadastros, ao achar o que deseja apagar e só escrever o nome de mesma forma que o cadastro foi feito, depois é so apertar em apagar, o nome da pessoa nesse ponto do processo ja esta excluído, ao sair da aba "Rmv Pessoa" e entrar novamente ele ja não estara constando a pessoa caso tenha feito essa etapa certo.
-<img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/4-Scanner.jpg?raw=true" width="500">
+<img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/3-Rmv.jpg?raw=true" width="500">
 
 -  Por fim esse é o Scanner, ao apertar ele automaticamente carregara o banco de dados de fotos e ja começará a verificar os rostos com seus devidos nomes, se houver algum erro pode ser algum cadastro que foi adicionado que a face da pessoa esta com dificil acesso por conta de uso de bonés ou falta de iluminação por exemplo"
 <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/4-Scanner.jpg?raw=true" width="500">
