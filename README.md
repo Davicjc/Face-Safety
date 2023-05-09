@@ -3,17 +3,17 @@ Este é um programa em Python que usa a biblioteca de reconhecimento facial "fac
 
 # Como Baixar:
 
-### Para esse código você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem:
+### Para esse código, você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem:
 
--  Vá na loja do Windows e baixe o ultimo python disponível, caso queira usar o mesmo que foi usando nesse codigo só entrar nesse link ["Py-3.11"](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K)
+- Vá na loja do Windows e baixe o último Python disponível. Caso queira usar o mesmo que foi usado nesse código, só entrar nesse link ["Py-3.11"](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K).
 
--  Segundo passo, baixa esse programa: ["Visual Studio"](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/), ao executar ele abrirá uma pagina de download, nessa pagina selecione a opção "Desenvolvimento para desktop com C++" que geralmente é a primeira opção e aperte em instalar.
+- Segundo passo, baixe esse programa: ["Visual Studio"](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/). Ao executar, ele abrirá uma página de download. Nessa página, selecione a opção "Desenvolvimento para desktop com C++", que geralmente é a primeira opção, e aperte em instalar.
 
--  Terceiro passo, voce precisa baixar esse programa: ["CMake"](https://cmake.org/download/), durante a instalação é importante marca a opção "Add CMake to the system PATH for all users" para evitar problemas, após isso pode continuar o download do programa. "Aviso: Ao programa baixar é importante abrir ele pelo menos uma vez e pode fechá-lo após a abertura"
+- Terceiro passo, você precisa baixar esse programa: ["CMake"](https://cmake.org/download/). Durante a instalação, é importante marcar a opção "Add CMake to the system PATH for all users" para evitar problemas. Após isso, pode continuar o download do programa. Aviso: ao programa baixar, é importante abrir ele pelo menos uma vez e pode fechá-lo após a abertura.
 
--  Após fazer os últimos passos recomendo reiniciar o PC para fazer essa etapa, abra seu CMD, e de esse comando: "[pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python]()"
+- Após fazer os últimos passos, recomendo reiniciar o PC. Para fazer essa etapa, abra seu CMD e dê esse comando: "[pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python]()".
 
--  Após fazer todas essas etapas voce pode abrir o arquivo do programa ["Face Safety.py"]()
+- Após fazer todas essas etapas, você pode abrir o arquivo do programa ["Face Safety.py"]().
 
 # Como usar:
 
