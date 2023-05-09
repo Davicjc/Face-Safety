@@ -5,7 +5,7 @@
 # O programa pode ser usado para segurança ou controle de acesso caso seja adaptado.
 # Feito por Davicjc por meio de pesquisas e estudos de bibliotecas além do estudo de códigos de terceiros.
 
-# "LER NO GITHUB AS INSTRUÇÕES ANTES DE USAR O PROGRAMA (EM PORTUGUÊS)"
+# "LER NO GITHUB AS INSTRUÇÕES ANTES DE USAR O PROGRAMA. (EM PORTUGUÊS)"
 
 #importa as bibliotecas necessárias
 import cv2, os, random, numpy as np, glob, face_recognition, tkinter as tk, webbrowser
