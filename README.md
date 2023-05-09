@@ -9,7 +9,7 @@ Este é um programa em Python que usa a biblioteca de reconhecimento facial "fac
 
 - Segundo passo, baixe esse programa: ["Visual Studio"](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/). Ao executar, ele abrirá uma página de download. Nessa página, selecione a opção "Desenvolvimento para desktop com C++", que geralmente é a primeira opção, e aperte em instalar.
 
-- Terceiro passo, você precisa baixar esse programa: ["CMake"](https://cmake.org/download/). Durante a instalação, é importante marcar a opção "Add CMake to the system PATH for all users" para evitar problemas. Após isso, pode continuar o download do programa. Aviso: ao programa baixar, é importante abrir ele pelo menos uma vez e pode fechá-lo após a abertura.
+- Terceiro passo, você precisa baixar esse programa: ["CMake"](https://cmake.org/download/). Durante a instalação, é importante marcar a opção "Add CMake to the system PATH for all users" para evitar problemas. Após isso, pode continuar o download do programa. Aviso: ao programa baixar, é importante abrir ele pelo menos uma vez e pode fechá-lo após a abertura. "Baixe o arquivo corresponde com seu sistema operacional, e certifique-se de estar instalado a verçao do programa "Installer", exemplo: Windows x64 Installer.
 
 - Após fazer os últimos passos, recomendo reiniciar o PC. Para fazer essa etapa, abra seu CMD e dê esse comando: "[pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python]()".
 
