@@ -30,4 +30,3 @@ Este é um programa em Python que usa a biblioteca de reconhecimento facial "fac
 
 - Por fim, este é o scanner. Ao apertá-lo, automaticamente carregará o banco de dados de fotos e começará a verificar os rostos com seus respectivos nomes. Se houver algum erro, pode ser devido a um cadastro em que a face da pessoa está com difícil acesso, como o uso de bonés ou falta de iluminação, por exemplo.
 <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/4-Scanner.jpg?raw=true" width="400">
-
