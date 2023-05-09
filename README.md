@@ -5,7 +5,7 @@ Este é um programa em Python que usa a biblioteca de reconhecimento facial "fac
 
 ### Para esse código você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem:
 
--  Vá na loja do Windows e baixe o ultimo python disponível, caso queira usar o mesmo que foi usando nesse codigo só entrar nesse linke ["Py-3.11"](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K)
+-  Vá na loja do Windows e baixe o ultimo python disponível, caso queira usar o mesmo que foi usando nesse codigo só entrar nesse link ["Py-3.11"](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K)
 
 -  Segundo baixa esse programa: ["Visual Studio"](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/), ao executar ele abrirá uma pagina de download, nessa pagina selecione a opção "Desenvolvimento para desktop com C++" que geralmente é a primeira opção e aperte em instalar.
 
