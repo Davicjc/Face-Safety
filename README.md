@@ -17,7 +17,7 @@ Este é um programa em Python que usa a biblioteca de reconhecimento facial "fac
 
 # Como usar:
 
-### Não esqueça de seguir as instruções da aba "Como Baixar".
+### Não esqueça de seguir as instruções da aba "[Como Baixar](https://github.com/Davicjc/Face-Safety/blob/main/README.md#como-baixar)".
 
 - Esta parte é o lobby, onde você pode acessar as opções do programa.
 <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/1-Lobby.jpg?raw=true" width="300">
