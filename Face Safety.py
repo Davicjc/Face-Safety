@@ -1,5 +1,14 @@
+# Este é um programa em Python que usa a biblioteca de reconhecimento facial "face recognition". 
+# Ele permite adicionar fotos ao banco de dados,
+# excluir pessoas do banco de dados,
+# ativar o modo scanner que apresenta o nome da pessoa ao entrar de frente a câmera. 
+# O programa pode ser usado para segurança ou controle de acesso caso seja adaptado.
+# Feito por Davicjc por meio de pesquisas e estudos de bibliotecas além do estudo de códigos de terceiros.
+
+# "LER NO GITHUB AS INSTRUÇÕES ANTES DE USAR O PROGRAMA (EM PORTUGUÊS)"
+
 #importa as bibliotecas necessárias
-import cv2, os, random, numpy as np, glob, face_recognition, tkinter as tk
+import cv2, os, random, numpy as np, glob, face_recognition, tkinter as tk, webbrowser
 
 # Função que cria a janela principal
 def lobby():
@@ -23,14 +32,20 @@ def lobby():
     Badd_button = tk.Button(Lobby, text="Add Pessoa", font=("Arial", 12), bg="black", fg="blue",cursor="hand2" , command=nome)
     Bremv_button = tk.Button(Lobby, text="Rmv Pessoa", font=("Arial", 12), bg="black", fg="red",cursor="hand2" , command=apagar_imagem)
     Scan_button = tk.Button(Lobby, text="Lgr Scanner", font=("Arial", 12), bg="black", fg="green",cursor="hand2" , command=reconhecer)
-    cjc_label = tk.Label(Lobby, text="By: Davicjc, Bruno, Diogo, Matheus", font=("Arial", 8), bg="black", fg="white")
+    cjc_label = tk.Label(Lobby, text="By: Davicjc", font=("Arial", 8), bg="black", fg="blue", cursor="hand2")
 
     # Posiciona os componentes na janela
     txt_label.pack()
     Badd_button.place(x=10, y=100)
     Bremv_button.place(x=10, y=150)
     Scan_button.place(x=10, y=200)
-    cjc_label.place(x=146, y=220)
+    cjc_label.place(x=255, y=220)
+
+    #Serve para chamar a função "Davi" quando o botão for clicado
+    cjc_label.bind("<Button-1>", lambda event: Davi())
+
+    def Davi():
+        webbrowser.open("https://github.com/Davicjc/")
 
     #Loop da janela
     Lobby.mainloop()
