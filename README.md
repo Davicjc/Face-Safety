@@ -1,6 +1,20 @@
 # Face-Safety
 Este é um programa em Python que usa a biblioteca de reconhecimento facial "face recognition". Ele permite adicionar fotos ao banco de dados, excluir pessoas do banco de dados e ativar o modo scanner que apresenta o nome da pessoa ao entrar de frente a câmera. O programa pode ser usado para segurança ou controle de acesso caso seja adaptado.
 
+# Como Baixar:
+
+### Para esse código você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem:
+
+-  Vá na loja do Windows e baixe o ultimo python disponível, caso queira usar o mesmo que foi usando nesse codigo só entrar nesse linke ["Py-3.11"](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K)
+
+-  Segundo baixa esse programa: ["Visual Studio"](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/), ao executar ele abrirá uma pagina de download, nessa pagina selecione a opção "Desenvolvimento para desktop com C++" que geralmente é a primeira opção e aperte em instalar.
+
+-  Terceiro passo, voce precisa baixar esse programa: ["CMake"](https://cmake.org/download/), durante a instalação é importante marca a opção "Add CMake to the system PATH for all users" para evitar problemas, após isso pode continuar o download do programa. "Aviso: Ao programa baixar é importante abrir ele pelo menos uma vez e pode fechá-lo após a abertura"
+
+-  Após fazer os últimos passos recomendo reiniciar o PC para fazer essa etapa, abra seu CMD, e de esse comando: "[pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python]()"
+
+-  Após fazer todas essas etapas voce pode abrir o arquivo do programa ["Face Safety.py"]()
+
 # Como usar:
 
 -  Essa parte é o lobby, onde você pode acessar as opções do programa.
