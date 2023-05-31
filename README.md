@@ -33,7 +33,10 @@ Este é um programa em Python que usa a biblioteca de reconhecimento facial "fac
 - Por fim, este é o scanner. Ao apertá-lo, automaticamente carregará o banco de dados de fotos e começará a verificar os rostos com seus respectivos nomes. Se houver algum erro, pode ser devido a um cadastro em que a face da pessoa está com difícil acesso, como o uso de bonés ou falta de iluminação, por exemplo.
  <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/4-Scanner.jpg?raw=true" width="400">
 
-# Em breve:
+# Função KEY:
+### Pode ser personalizado...
 
 - Essa parte é apenas para aqueles que irão usar o código para gerenciar algo, como portas eletrônicas, sistemas de monitoramento, entre outros. Também haverá suporte para o [RaspberryPi](https://www.raspberrypi.org/). Nestas duas abas, você pode adicionar uma pessoa como administradora. Sendo assim, no final do código haverá uma variável isolada. Quando uma pessoa entrar na frente da câmera e o nome dela estiver na lista de administradores, a variável ficará com o valor "True". Caso contrário, se uma pessoa sem poderes administrativos ou alguém que não esteja no banco de dados ficar na frente da câmera, a variável será revertida para "False". Dessa forma, quem for utilizar este código pode realizar uma ação, como destrancar ou trancar uma porta, por exemplo, por meio desta variável.
 <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/4.5-ADMs.jpg?raw=true" width="450">
+
+- [Imagem da parte referente do código que pode ser modificada](https://github.com/Davicjc/Face-Safety/blob/main/Fotos/Key%20Img.jpg?raw=true)
