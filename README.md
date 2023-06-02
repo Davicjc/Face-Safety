@@ -7,7 +7,7 @@
 ### Contato:
 [![instagram](https://img.shields.io/badge/instagram-e75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davicjc/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicjc/)
- - E-mail: [davicjc@gmail.com]() "Mais usado"
+ - E-mail: [davicjc@gmail.com]() "Mais utilizado"
  - Telegram: [@Davicjc](https://t.me/Davicjc)
 
 
