@@ -13,7 +13,6 @@
 # "LEIA AS INSTRUÇÕES NO GITHUB ANTES DE USAR O PROGRAMA (EM PORTUGUÊS)"
 # ------------------------------------------------------------------------------------------------------------
 
-
 # importa as bibliotecas necessárias
 import cv2
 import os
