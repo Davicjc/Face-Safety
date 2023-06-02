@@ -26,7 +26,7 @@
 
 - Após fazer os últimos passos, recomendo reiniciar o PC. Para fazer essa etapa, abra seu CMD e execute o seguinte comando, sem as aspas: "pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python".
 
-- Após seguir todas essas etapas, você pode abrir o arquivo do programa ["Face Safety.py"]().
+- Após seguir todas essas etapas, você pode abrir o arquivo do programa ["Face Safety.py"](https://github.com/Davicjc/Face-Safety/releases).
 
 - "Caso ocorra algum erro, pode ser um problema isolado relacionado ao seu sistema atual. Em caso de dúvidas, entre em contato pelo 'ctt no perfil'."
 
