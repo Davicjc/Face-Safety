@@ -1,27 +1,39 @@
-# Face-Safety
-Este é um programa em Python que usa a biblioteca de reconhecimento facial "face recognition". Ele permite adicionar fotos para que sejam detectadas pela câmera, excluir pessoas "registros" e ativar o modo scanner que apresenta o nome da pessoa ao entrar de frente a câmera. O programa pode ser usado para segurança ou controle de acesso caso seja adaptado.
+# 🚀Atalhos:
+- ["Como Baixar"](https://github.com/Davicjc/Face-Safety/blob/main/README.md#como-baixar) (Para esse código, você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem:)
+- ["Como Usar"](https://github.com/Davicjc/Face-Safety#como-usar) (Aprenda a usar o programa com todos os detalhes:)
+- ["Função KEY"](https://github.com/Davicjc/Face-Safety#fun%C3%A7%C3%A3o-key) (Essa parte permite gerenciar sistemas como portas eletrônicas e sistemas de monitoramento usando o Raspberry Pi, adicionando administradores e executando ações personalizadas quando reconhecer um administrador pela câmera:)
 
-# Como Baixar:
+### ✉️Contatos:
+[![instagram](https://img.shields.io/badge/instagram-e75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davicjc/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicjc/)
+ - E-mail: [davicjc@gmail.com]() "Mais usado"
+ - Telegram: [@Davicjc](https://t.me/Davicjc)
+
+
+# 📷Face-Safety
+- Este é um programa em Python que utiliza a biblioteca de reconhecimento facial "face recognition". Ele permite adicionar fotos para que sejam detectadas pela câmera, excluir registros de pessoas e ativar o modo scanner, que apresenta o nome da pessoa ao entrar em frente à câmera. O programa pode ser utilizado para fins de segurança ou controle de acesso, caso seja adaptado corretamente.
+
+# ⬇️Como Baixar:
 
 ### Para esse código, você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem:
 
-- Vá na loja do Windows e baixe o último Python disponível. Caso queira usar o mesmo que foi usado nesse código, só entrar nesse link ["Py-3.11"](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K).
+- Vá à loja da Microsoft e baixe a versão mais recente do Python disponível. Caso queira usar a mesma versão utilizada neste código, basta acessar este link: ["Py-3.11"](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K).
 
-- Segundo passo, baixe esse programa: ["Visual Studio"](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/). Ao executar, ele abrirá uma página de download. Nessa página, selecione a opção "Desenvolvimento para desktop com C++", que geralmente é a primeira opção, e aperte em instalar.
+- Segundo passo, baixe esse programa: ["Visual Studio"](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/). Ao executá-lo, ele abrirá uma página de download. Nessa página, selecione a opção "Desenvolvimento para desktop com C++", que geralmente é a primeira opção, e clique em instalar.
 
-- Terceiro passo, você precisa baixar esse programa: ["CMake"](https://cmake.org/download/). Durante a instalação, é importante marcar a opção "Add CMake to the system PATH for all users" para evitar problemas. Após isso, pode continuar o download do programa. Aviso: ao programa baixar, é importante abrir ele pelo menos uma vez e pode fechá-lo após a abertura. "Baixe o arquivo corresponde com seu sistema operacional, e certifique-se de estar instalado a verçao do programa "Installer", exemplo: Windows x64 Installer.
+- Terceiro passo, você precisa baixar este programa: ["CMake"](https://cmake.org/download/). Durante a instalação, é importante marcar a opção "Add CMake to the system PATH for all users" para evitar problemas. Após isso, você pode continuar o download do programa. Aviso: assim que o programa for baixado, é importante abri-lo pelo menos uma vez e, em seguida, você pode fechá-lo. Baixe o arquivo correspondente ao seu sistema operacional e certifique-se de instalar a versão do programa "Installer". Por exemplo, se você estiver usando o Windows, baixe o instalador para Windows x64.
 
-- Após fazer os últimos passos, recomendo reiniciar o PC. Para fazer essa etapa, abra seu CMD e dê esse comando sem as aspas: "[pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python]()".
+- Após fazer os últimos passos, recomendo reiniciar o PC. Para fazer essa etapa, abra seu CMD e execute o seguinte comando, sem as aspas: "pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python".
 
-- Após fazer todas essas etapas, você pode abrir o arquivo do programa ["Face Safety.py"]().
+- Após seguir todas essas etapas, você pode abrir o arquivo do programa ["Face Safety.py"]().
 
-- "Caso aconteça algum erro, pode ser um problema isolado relacionado ao seu sistema atual, qualquer dúvida entrar em contato 'ctt no perfil'."
+- "Caso ocorra algum erro, pode ser um problema isolado relacionado ao seu sistema atual. Em caso de dúvidas, entre em contato pelo 'ctt no perfil'."
 
-# Como usar:
+# 🔬Como usar:
 
-### Não esqueça de seguir as instruções da aba "[Como Baixar](https://github.com/Davicjc/Face-Safety/blob/main/README.md#como-baixar)".
+### Não esqueça de seguir as instruções da seção "[Como Baixar](https://github.com/Davicjc/Face-Safety/blob/main/README.md#como-baixar)".
 
-- Esta parte é o lobby, onde você pode acessar as opções do programa.
+- Esta parte é a página inicial, onde você pode acessar as opções do programa.
 <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/1-Lobby.jpg?raw=true" width="300">
 
 - Esta é a tela que aparece ao clicar no botão 'Add Pessoa'. Nesse campo em branco, você irá colocar o nome da pessoa que deseja cadastrar. Após isso, a câmera será aberta e irá aguardar que você aperte qualquer tecla para tirar a foto. Caso o rosto não seja encontrado na imagem, o scanner não funcionará e você deverá apagar o cadastro na opção 'Rmv Pessoa'. Depois, você pode refazer o cadastro da pessoa novamente em 'Add Pessoa'. Lembrete: é importante não colocar nomes repetidos.
@@ -33,10 +45,10 @@ Este é um programa em Python que usa a biblioteca de reconhecimento facial "fac
 - Por fim, este é o scanner. Ao apertá-lo, automaticamente carregará as pessoas cadastradas e começará a verificar os rostos com seus respectivos nomes. Se houver algum erro, pode ser devido a um cadastro em que a face da pessoa está com difícil acesso, como o uso de bonés ou falta de iluminação, por exemplo.
  <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/4-Scanner.jpg?raw=true" width="400">
 
-# Função KEY:
+# 🗝️Função KEY:
 ### Pode ser personalizado...
 
-- Essa parte é apenas para aqueles que irão usar o código para gerenciar algo, como portas eletrônicas, sistemas de monitoramento, entre outros. Também haverá suporte para o [RaspberryPi](https://www.raspberrypi.org/). Nestas duas abas, você pode adicionar uma pessoa como administradora. Sendo assim, no final do código haverá uma variável isolada. Quando uma pessoa entrar na frente da câmera e o nome dela estiver na lista de administradores, a variável ficará com o valor "True". Caso contrário, se uma pessoa sem poderes administrativos ou alguém que não esteja cadastrado ficar na frente da câmera, a variável será revertida para "False". Dessa forma, quem for utilizar este código pode realizar uma ação, como destrancar ou trancar uma porta, por exemplo, por meio desta variável.
+- Essa parte é apenas para aqueles que irão usar o código para gerenciar algo, como portas eletrônicas, sistemas de monitoramento, entre outros. Também haverá suporte para o [Raspberry Pi](https://www.raspberrypi.org/). Nestas duas abas, você pode adicionar uma pessoa como administradora. Sendo assim, no final do código haverá um "Def Key". Quando uma pessoa entrar na frente da câmera e o nome dela estiver na lista de administradores, ela irá chamar essa função e executará o que estiver dentro dela "em loop". Caso contrário, se uma pessoa sem poderes administrativos ou alguém que não esteja cadastrado ficar na frente da câmera, ela não será chamada. Dessa forma, quem for utilizar este código pode realizar uma ação, como destrancar ou trancar uma porta, por exemplo, por meio desta variável. Lembrando que dentro dessa função ela pode ser totalmente personalizada caso você tenha conhecimento do que esteja fazendo.
 <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/4.5-ADMs.jpg?raw=true" width="450">
 
 - [Imagem da parte referente do código que pode ser modificada](https://github.com/Davicjc/Face-Safety/blob/main/Fotos/Key%20Img.jpg?raw=true)
