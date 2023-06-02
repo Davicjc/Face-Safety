@@ -1,8 +1,8 @@
 # 🚀Atalhos:
 - [📷Face-Safety](https://github.com/Davicjc/Face-Safety#face-safety) (Sobre o programa/app)
-- ["Como Baixar"](https://github.com/Davicjc/Face-Safety#%EF%B8%8Fcomo-baixar) (Para esse código, você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem:)
-- ["Como Usar"](https://github.com/Davicjc/Face-Safety#como-usar) (Aprenda a usar o programa com todos os detalhes:)
-- ["Função KEY"](https://github.com/Davicjc/Face-Safety#%EF%B8%8Ffun%C3%A7%C3%A3o-key) (Essa parte permite gerenciar sistemas como portas eletrônicas e sistemas de monitoramento usando o Raspberry Pi, adicionando administradores e executando ações personalizadas quando reconhecer um administrador pela câmera:)
+- ["⬇️Como Baixar"](https://github.com/Davicjc/Face-Safety#%EF%B8%8Fcomo-baixar) (Para esse código, você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem:)
+- [🔬Como usar"](https://github.com/Davicjc/Face-Safety#como-usar) (Aprenda a usar o programa com todos os detalhes:)
+- ["🗝️Função KEY"](https://github.com/Davicjc/Face-Safety#%EF%B8%8Ffun%C3%A7%C3%A3o-key) (Essa parte permite gerenciar sistemas como portas eletrônicas e sistemas de monitoramento usando o Raspberry Pi, adicionando administradores e executando ações personalizadas quando reconhecer um administrador pela câmera:)
 
 ### Contato:
 [![instagram](https://img.shields.io/badge/instagram-e75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davicjc/)
