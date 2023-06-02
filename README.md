@@ -1,3 +1,6 @@
+# 📷Face-Safety
+- Este é um programa em Python que utiliza a biblioteca de reconhecimento facial "face recognition". Ele permite adicionar fotos para que sejam detectadas pela câmera, excluir registros de pessoas e ativar o modo scanner, que apresenta o nome da pessoa ao entrar em frente à câmera. O programa pode ser utilizado para fins de segurança ou controle de acesso, caso seja adaptado corretamente.
+
 # 🚀Atalhos:
 - ["📷Face-Safety"](https://github.com/Davicjc/Face-Safety#face-safety) (Sobre o programa/app)
 - ["⬇️Como Baixar"](https://github.com/Davicjc/Face-Safety#%EF%B8%8Fcomo-baixar) (Para esse código, você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem)
@@ -5,14 +8,8 @@
 - ["🗝️Função KEY"](https://github.com/Davicjc/Face-Safety#%EF%B8%8Ffun%C3%A7%C3%A3o-key) (Essa parte permite gerenciar sistemas como portas eletrônicas e sistemas de monitoramento, podendo ser utilizado em um Raspberry Pi ou qualquer outro lugar onde o código seja compatível. Você pode adicionar administradores e executar ações personalizadas quando um administrador é reconhecido pela câmera)
 
 ### Contato:
-[![instagram](https://img.shields.io/badge/instagram-e75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davicjc/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicjc/)
  - E-mail: [davicjc@gmail.com]() "Mais utilizado"
  - Telegram: [@Davicjc](https://t.me/Davicjc)
-
-
-# 📷Face-Safety
-- Este é um programa em Python que utiliza a biblioteca de reconhecimento facial "face recognition". Ele permite adicionar fotos para que sejam detectadas pela câmera, excluir registros de pessoas e ativar o modo scanner, que apresenta o nome da pessoa ao entrar em frente à câmera. O programa pode ser utilizado para fins de segurança ou controle de acesso, caso seja adaptado corretamente.
 
 # ⬇️Como Baixar:
 
