@@ -16,7 +16,7 @@
 - Clique aqui: ["BAIXAR"](https://1drv.ms/u/s!AnmOlIL4SXyggoBBImepRALWGBEUfA?e=P84JPt)
 - Essa versão não precisa de nenhum passo para executar, é só baixar e abrir!
 - "Lembrando que essa versão não é possível usar a função "KEY" editável, pois não é possível editar o código, porém tudo funciona.
-- Caso aconteça algum erro, o que é bem raro.
+- Caso aconteça algum erro, o que é bem raro, execute esse codigo no cmd: ```pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python``` e tente novamente!
 - "Obrigatório câmera! Lembrando que, dependendo do PC, ao abrir, pode demorar um pouco para ser executado 100%".
 
 # ⬇️Como Baixar:
@@ -29,7 +29,7 @@
 
 - Terceiro passo, você precisa baixar este programa: ["CMake"](https://cmake.org/download/). Durante a instalação, é importante marcar a opção "Add CMake to the system PATH for all users" para evitar problemas. Após isso, você pode continuar o download do programa. Aviso: assim que o programa for baixado, é importante abri-lo pelo menos uma vez e, em seguida, você pode fechá-lo. Baixe o arquivo correspondente ao seu sistema operacional e certifique-se de instalar a versão do programa "Installer". Por exemplo, se você estiver usando o Windows, baixe o instalador para Windows x64.
 
-- Após fazer os últimos passos, recomendo reiniciar o PC. Para fazer essa etapa, abra seu CMD e execute o seguinte comando, sem as aspas: "pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python".
+- Após fazer os últimos passos, recomendo reiniciar o PC. Para fazer essa etapa, abra seu CMD e execute o seguinte comando: ```pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python```
 
 - Após seguir todas essas etapas, você pode abrir o arquivo do programa ["Face Safety.py"](https://github.com/Davicjc/Face-Safety/releases).
 
