@@ -49,6 +49,6 @@
 ### Can be customized...
 
 - This part is only for those who will use the code to manage something like electronic doors, monitoring systems, among others. There will also be support for the [Raspberry Pi](https://www.raspberrypi.org/). In these two tabs, you can add a person as an administrator. Thus, at the end of the code, there will be a "Def Key". When a person stands in front of the camera, and their name is on the list of administrators, it will call this function and execute what is inside it "in a loop". Otherwise, if a person without administrative privileges or someone who is not registered stands in front of the camera, it will not be called. In this way, whoever uses this code can perform an action, such as unlocking or locking a door, for example, through this variable. Remember that within this function, it can be fully customized if you have knowledge of what you are doing.
-<img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/4.5-ADMs.jpg?raw=true" width="450">
+ <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/4.5-ADMs.jpg?raw=true" width="450">
 
 - [Image of the relevant part of the code that can be modified](https://github.com/Davicjc/Face-Safety/blob/main/Fotos/Key%20Img.jpg?raw=true)
