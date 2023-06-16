@@ -28,9 +28,7 @@
 
 - As a second step, download this program: ["Visual Studio"](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/). When you run it, it will open a download page. On that page, select the option "Desktop development with C++," which is usually the first option, and click install.
 
-- As a third step, you need to download this program: ["CMake"](https://cmake.org/download/). During the installation, make sure to check the option "Add CMake to the system PATH for all users" to avoid problems. After that, you can continue with the program download. Note: Once the program is downloaded, it is important to open it at least once, and then you can close it
-
-. Download the file corresponding to your operating system and make sure to install the "Installer" version of the program. For example, if you are using Windows, download the installer for Windows x64.
+- As a third step, you need to download this program: ["CMake"](https://cmake.org/download/). During the installation, make sure to check the option "Add CMake to the system PATH for all users" to avoid problems. After that, you can continue with the program download. Note: Once the program is downloaded, it is important to open it at least once, and then you can close it. Download the file corresponding to your operating system and make sure to install the "Installer" version of the program. For example, if you are using Windows, download the installer for Windows x64.
 
 - After completing the previous steps, it is recommended to restart your PC. To do this, open your CMD and execute the following command: ```pip install dlib && pip install face_recognition && pip install numpy && pip install opencv-python```
 
