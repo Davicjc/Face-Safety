@@ -1,14 +1,7 @@
 # 📷Face-Safety
 - This is a Python program that uses the "face recognition" facial recognition library. It allows you to add photos to be detected by the camera, delete people's records, and activate the scanner mode, which displays the person's name when they step in front of the camera. The program can be used for security purposes or access control if properly adapted.
 
-# 🚀Shortcuts:
-- ["🪄 One-Click Execution"](https://github.com/Davicjc/Face-Safety/blob/b0953e76f9c933dd8821c54d3d96aa46d6dbc0f6/English%20version.md#-one-click-execution) (This version does not require any steps to run, just download and open it!)
-- ["📷Face-Safety"](https://github.com/Davicjc/Face-Safety/blob/b0953e76f9c933dd8821c54d3d96aa46d6dbc0f6/English%20version.md#face-safety) (About the program/app)
-- ["⬇️How to Download"](https://github.com/Davicjc/Face-Safety/blob/b0953e76f9c933dd8821c54d3d96aa46d6dbc0f6/English%20version.md#%EF%B8%8Fhow-to-download) (For this code, you need to download some mandatory things that the libraries require)
-- ["🔬How to Use"](https://github.com/Davicjc/Face-Safety/blob/b0953e76f9c933dd8821c54d3d96aa46d6dbc0f6/English%20version.md#%EF%B8%8Fhow-to-download) (Learn how to use the program with all the details)
-- ["🗝️KEY Function"](https://github.com/Davicjc/Face-Safety/blob/b0953e76f9c933dd8821c54d3d96aa46d6dbc0f6/English%20version.md#%EF%B8%8Fhow-to-download) (This part allows you to manage systems like electronic doors and monitoring systems, and it can be used on a Raspberry Pi or any other place where the code is compatible. You can add administrators and perform custom actions when an administrator is recognized by the camera)
-
-### Contact:
+# 🚀Contact:
  - Email: [davicjc@gmail.com]() "Most used"
  - Telegram: [@Davicjc](https://t.me/Davicjc)
 
@@ -38,7 +31,7 @@
 
 # 🔬How to Use:
 
-### Don't forget to follow the instructions in the "[How to Download](https://github.com/Davicjc/Face-Safety/blob/b0953e76f9c933dd8821c54d3d96aa46d6dbc0f6/English%20version.md#%EF%B8%8Fhow-to-download)" section.
+### Don't forget to follow the instructions in the "How to Download" section.
 
 - This is the home page where you can access the program options.
 <img src="https://github.com/Davicjc/Face-Safety/blob/main/Fotos/1-Lobby.jpg?raw=true" width="300">
