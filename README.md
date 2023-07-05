@@ -26,6 +26,8 @@
 
 ### Para esse código, você precisa baixar algumas coisas obrigatórias que as bibliotecas pedem:
 
+- 📢 "instalação parecida para linux, qualquer duvida consulte o chatGPT e se não consegui entre em contato"
+
 - Vá à loja da Microsoft e baixe a versão mais recente do Python disponível. Caso queira usar a mesma versão utilizada neste código, basta acessar este link: ["Py-3.11"](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K).
 
 - Segundo passo, baixe esse programa: ["Visual Studio"](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/). Ao executá-lo, ele abrirá uma página de download. Nessa página, selecione a opção "Desenvolvimento para desktop com C++", que geralmente é a primeira opção, e clique em instalar.
