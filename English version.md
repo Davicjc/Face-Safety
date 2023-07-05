@@ -17,7 +17,7 @@
 
 ### For this code, you need to download some mandatory things that the libraries require:
 
-- 📢 "Similar installation for Linux, if you have any questions, consult ChatGPT and if you can't get it to work, contact us."
+- 📢 "For Linux, you should download all the dependencies that will be shown below, except for the "Visual Studio" instruction. And remember that the installation method on Linux for each step may be different from the way it's done on Windows. If you have any questions, consult ChatGPT, and if you still can't figure it out, get in touch."
 
 - Go to the Microsoft Store and download the latest available version of Python. If you want to use the same version used in this code, just access this link: ["Py-3.11"](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K).
 
