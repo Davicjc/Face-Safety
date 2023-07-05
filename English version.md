@@ -1,5 +1,5 @@
 # 📷Face-Safety
-### Windows - Linux'beta': 
+### Windows & Linux 'beta': 
 - This is a Python program that uses the "face recognition" facial recognition library. It allows you to add photos to be detected by the camera, delete people's records, and activate the scanner mode, which displays the person's name when they step in front of the camera. The program can be used for security purposes or access control if properly adapted.
 
 # 🚀Contact:
