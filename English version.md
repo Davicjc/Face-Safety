@@ -7,6 +7,7 @@
 
 # 🪄 One-Click Execution:
 
+- 📢 "Just for Windows because it's an '.exe'"
 - Click here: ["DOWNLOAD"](https://1drv.ms/u/s!AnmOlIL4SXyggoBBImepRALWGBEUfA?e=P84JPt)
 - This version does not require any steps to run, just download and open it!
 - "Remember that this version does not allow the editable 'KEY' function because it is not possible to edit the code, but everything works.
