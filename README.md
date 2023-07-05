@@ -16,6 +16,7 @@
 
 # 🪄 Executar 1 Clique:
 
+- 📢 "Apenas para Windows por ser um '.exe'"
 - Clique aqui: ["BAIXAR"](https://1drv.ms/u/s!AnmOlIL4SXyggoBBImepRALWGBEUfA?e=P84JPt)
 - Essa versão não precisa de nenhum passo para executar, é só baixar e abrir!
 - "Lembrando que essa versão não é possível usar a função "KEY" editável, pois não é possível editar o código, porém tudo funciona.
